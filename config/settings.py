@@ -1,0 +1,11 @@
+# Genel ayarlar
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Renkler
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (50, 50, 50)
+BLUE = (100, 100, 255)
+RED = (255, 100, 100)
